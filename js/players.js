@@ -1,37 +1,72 @@
 const players = [
     {
-        firstName: 'John',
-        lastName: 'Walker',
-        Alias: 'US Agent',
-        Superpower: 'Enhanced strength, sight, hearing',
-        Photo: 'https://picsum.photos/200/300'
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
     },
     {
-        firstName: 'Alexei',
-        lastName: 'Shostakov',
-        Alias: 'Red Guardian',
-        Superpower: 'Enhanced strength, sight',
-        Photo: 'https://picsum.photos/200/300'
+        firstName: 'Ken',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ken.jpg'
     },
     {
-        firstName: 'Bucky',
-        lastName: 'Barnes',
-        Alias: 'Winter Soldier',
-        Superpower: 'Metal Arm',
-        Photo: 'https://picsum.photos/200/300'
+        firstName: 'Chun-Li',
+        Nationality: 'Chinese',
+        Style: 'Kung Fu',
+        Appearance: 'Street Fighter 2nd, 3rd, 4th, 5th, and 6th',
+        Photo: '/imgs/Chun-Li.jpg'
     },
     {
-        firstName: 'Bob',
-        lastName: 'Reynolds',
-        Alias: 'Sentry',
-        Superpower: 'Yes',
-        Photo: 'https://picsum.photos/200/300'
+        firstName: 'Guile',
+        Nationality: 'America',
+        Style: 'Freedom Fu',
+        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Photo: '/imgs/Guile.jpg'
     },
     {
-        firstName: 'Danny',
-        lastName: 'Rand',
-        Alias: 'Iron Fist',
-        Superpower: 'Iron Fist powers',
-        Photo: 'https://picsum.photos/200/300'
-    }
+        firstName: 'E. Honda',
+        Nationality: 'Japanese',
+        Style: 'Sumo',
+        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Photo: '/imgs/E Honda.jpg'
+    },
+    {
+        firstName: 'Dhalsim',
+        Nationality: 'Indian',
+        Style: 'Yoga',
+        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Photo: '/imgs/Dhalsim.jpg'
+    },
+    {
+        firstName: 'Blanka',
+        Nationality: 'Indian',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ken.jpg'
+    },
+    {
+        firstName: 'Chun-Li',
+        Nationality: 'China',
+        Style: 'Kung Fu',
+        Appearance: 'Street Fighter 2nd, 3rd, 4th, 5th, and 6th',
+        Photo: '/imgs/Chun-Li.jpg'
+    },
+    {
+        firstName: 'Guile',
+        Nationality: 'USA',
+        Style: 'Freedom Fu',
+        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Photo: '/imgs/Guile.jpg'
+    },
+    {
+        firstName: 'E. Honda',
+        Nationality: 'Japan',
+        Style: 'Sumo',
+        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Photo: '/imgs/E Honda.jpg'
+    },
 ]

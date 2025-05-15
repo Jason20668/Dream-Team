@@ -104,4 +104,39 @@ const players = [
         Appearance: 'Street Fighter 2 & 4',
         Photo: '/imgs/Thunder Hawk.jpg'
     },
+    {
+        firstName: 'Dee Jay',
+        Nationality: 'Jamaican',
+        Style: 'Kickboxing Karateka',
+        Appearance: 'Street Fighter 2, 4 & 6',
+        Photo: '/imgs/Dee Jay.jpg'
+    },
+    {
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
+    },
+    {
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
+    },
+    {
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
+    },
+    {
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
+    },
 ]

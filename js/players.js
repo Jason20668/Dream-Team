@@ -112,11 +112,11 @@ const players = [
         Photo: '/imgs/Dee Jay.jpg'
     },
     {
-        firstName: 'Ryu',
+        firstName: 'Akuma',
         Nationality: 'Japanese',
         Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ryu.jpg'
+        Appearance: 'Street Fighter 2, 3, 4, 5, & 6',
+        Photo: '/imgs/Akuma.jpg'
     },
     {
         firstName: 'Ryu',

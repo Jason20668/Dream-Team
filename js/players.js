@@ -119,18 +119,18 @@ const players = [
         Photo: '/imgs/Akuma.jpg'
     },
     {
-        firstName: 'Ryu',
-        Nationality: 'Japanese',
-        Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ryu.jpg'
+        firstName: 'Charlie Nash',
+        Nationality: 'Irish',
+        Style: '"Peek-a-Boo" Boxing',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Charlie Nash.jpg'
     },
     {
-        firstName: 'Ryu',
-        Nationality: 'Japanese',
-        Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ryu.jpg'
+        firstName: 'Rose',
+        Nationality: 'Italian',
+        Style: 'Soul Power',
+        Appearance: 'Street Fighter 4 & 5',
+        Photo: '/imgs/Rose.jpg'
     },
     {
         firstName: 'Ryu',

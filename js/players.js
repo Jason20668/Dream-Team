@@ -17,14 +17,14 @@ const players = [
         firstName: 'Chun-Li',
         Nationality: 'Chinese',
         Style: 'Kung Fu',
-        Appearance: 'Street Fighter 2, 3, 4, 5, & 6',
+        Appearance: 'Street Fighter 2, Alpha, 3, 4, 5, & 6',
         Photo: '/imgs/Chun-Li.jpg'
     },
     {
         firstName: 'Guile',
         Nationality: 'America',
         Style: 'Freedom Fu',
-        Appearance: 'Street Fighter 2, 4, 5, & 6',
+        Appearance: 'Street Fighter 2, Super 2, 4, 5, & 6',
         Photo: '/imgs/Guile.jpg'
     },
     {
@@ -73,14 +73,14 @@ const players = [
         firstName: 'Sagat',
         Nationality: 'Thai',
         Style: 'Muay Thai',
-        Appearance: 'Street Fighter 1, 2, 4, & 5',
+        Appearance: 'Street Fighter 1, 2, Alpha, 4, & 5',
         Photo: '/imgs/Sagat.jpg'
     },
     {
         firstName: 'M. Bison',
         Nationality: 'Unknown',
         Style: 'Lerdrit & Psycho Power',
-        Appearance: 'Street Fighter 2, 4, 5, & 6',
+        Appearance: 'Street Fighter 2, Super 2, Alpha, 4, 5, & 6',
         Photo: '/imgs/M.Bison.jpg'
     },
     {
@@ -115,14 +115,14 @@ const players = [
         firstName: 'Akuma',
         Nationality: 'Japanese',
         Style: 'Ansatsuken Karate',
-        Appearance: 'Street Fighter 2, 3, 4, 5, & 6',
+        Appearance: 'Street Fighter Super 2, Alpha, 3, 4, 5, & 6',
         Photo: '/imgs/Akuma.jpg'
     },
     {
         firstName: 'Charlie Nash',
         Nationality: 'Irish',
         Style: '"Peek-a-Boo" Boxing',
-        Appearance: 'Street Fighter 5',
+        Appearance: 'Street Fighter Alpha & 5',
         Photo: '/imgs/Charlie Nash.jpg'
     },
     {
@@ -133,10 +133,45 @@ const players = [
         Photo: '/imgs/Rose.jpg'
     },
     {
-        firstName: 'Ryu',
+        firstName: 'Dan Hibiki',
+        Nationality: 'Chinese',
+        Style: 'Saikyo Karate',
+        Appearance: 'Street Fighter Alpha, 4, & 5',
+        Photo: '/imgs/Dan.jpg'
+    },
+    {
+        firstName: 'Birdie',
+        Nationality: 'British',
+        Style: 'Brawling & Wrestling',
+        Appearance: 'Street Fighter 1, Alpha, & 5',
+        Photo: '/imgs/Birdie.jpg'
+    },
+    {
+        firstName: 'Adon',
+        Nationality: 'Thai',
+        Style: 'Muay Thai',
+        Appearance: 'Street Fighter 1, Alpha, & 4',
+        Photo: '/imgs/Adon.jpg'
+    },
+    {
+        firstName: 'Sodom',
+        Nationality: 'American',
+        Style: 'Katana Blades and Jitte',
+        Appearance: 'Street Fighter Alpha',
+        Photo: '/imgs/Sodom.jpg'
+    },
+    {
+        firstName: 'Guy',
+        Nationality: 'American',
+        Style: 'Brawling & Ninjutsu',
+        Appearance: 'Street Fighter Alpha & 4',
+        Photo: '/imgs/Guy.jpg'
+    },
+    {
+        firstName: 'Sakura Kasugano',
         Nationality: 'Japanese',
-        Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ryu.jpg'
+        Style: 'Medical Ninjutsu & Taijutsu',
+        Appearance: 'Street Fighter Alpha, 4, & 5',
+        Photo: '/imgs/Sakura.jpg'
     },
 ]

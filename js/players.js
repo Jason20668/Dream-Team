@@ -98,10 +98,10 @@ const players = [
         Photo: '/imgs/Fei Long.jpg'
     },
     {
-        firstName: '1',
-        Nationality: '2',
-        Style: '3',
-        Appearance: '4',
-        Photo: '/imgs/5.jpg'
+        firstName: 'T. Hawk',
+        Nationality: 'Mexican',
+        Style: 'Thunderfoot Martial Arts',
+        Appearance: 'Street Fighter 2 & 4',
+        Photo: '/imgs/Thunder Hawk.jpg'
     },
 ]

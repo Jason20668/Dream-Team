@@ -17,56 +17,91 @@ const players = [
         firstName: 'Chun-Li',
         Nationality: 'Chinese',
         Style: 'Kung Fu',
-        Appearance: 'Street Fighter 2nd, 3rd, 4th, 5th, and 6th',
+        Appearance: 'Street Fighter 2, 3, 4, 5, and 6',
         Photo: '/imgs/Chun-Li.jpg'
     },
     {
         firstName: 'Guile',
         Nationality: 'America',
         Style: 'Freedom Fu',
-        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
         Photo: '/imgs/Guile.jpg'
     },
     {
         firstName: 'E. Honda',
         Nationality: 'Japanese',
-        Style: 'Sumo',
-        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Style: 'Sumo Wrestling',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
         Photo: '/imgs/E Honda.jpg'
     },
     {
         firstName: 'Dhalsim',
         Nationality: 'Indian',
-        Style: 'Yoga',
-        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
+        Style: 'Combat Yoga',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
         Photo: '/imgs/Dhalsim.jpg'
     },
     {
         firstName: 'Blanka',
-        Nationality: 'Indian',
-        Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ken.jpg'
+        Nationality: 'Brazilian',
+        Style: 'Animalistic Style',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
+        Photo: '/imgs/Blanka.jpg'
     },
     {
-        firstName: 'Chun-Li',
-        Nationality: 'China',
-        Style: 'Kung Fu',
-        Appearance: 'Street Fighter 2nd, 3rd, 4th, 5th, and 6th',
-        Photo: '/imgs/Chun-Li.jpg'
+        firstName: 'Zangief',
+        Nationality: 'Russian',
+        Style: 'Wrestling',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
+        Photo: '/imgs/Zangief.jpg'
     },
     {
-        firstName: 'Guile',
-        Nationality: 'USA',
-        Style: 'Freedom Fu',
-        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
-        Photo: '/imgs/Guile.jpg'
+        firstName: 'Balrog',
+        Nationality: 'American',
+        Style: 'Boxing',
+        Appearance: 'Street Fighter 2, 4, and 5',
+        Photo: '/imgs/Balrog.jpg'
     },
     {
-        firstName: 'E. Honda',
-        Nationality: 'Japan',
-        Style: 'Sumo',
-        Appearance: 'Street Fighter 2nd, 4th, 5th, and 6th',
-        Photo: '/imgs/E Honda.jpg'
+        firstName: 'Vega',
+        Nationality: 'Spanish',
+        Style: 'Spanish Bullfighting & Ninjutsu',
+        Appearance: 'Street Fighter 2, 4, and 5',
+        Photo: '/imgs/Vega.jpg'
+    },
+    {
+        firstName: 'Sagat',
+        Nationality: 'Thai',
+        Style: 'Muay Thai',
+        Appearance: 'Street Fighter 1, 2, 4, and 5',
+        Photo: '/imgs/Sagat.jpg'
+    },
+    {
+        firstName: 'M. Bison',
+        Nationality: 'Unknown',
+        Style: 'Lerdrit & Psycho Power',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
+        Photo: '/imgs/M.Bison.jpg'
+    },
+    {
+        firstName: 'Cammy',
+        Nationality: 'British',
+        Style: 'Shadaloo Assassination & Special Forces',
+        Appearance: 'Street Fighter 2, 4, 5, and 6',
+        Photo: '/imgs/Cammy.jpg'
+    },
+    {
+        firstName: '1',
+        Nationality: '2',
+        Style: '3',
+        Appearance: '4',
+        Photo: '/imgs/5.jpg'
+    },
+    {
+        firstName: '1',
+        Nationality: '2',
+        Style: '3',
+        Appearance: '4',
+        Photo: '/imgs/5.jpg'
     },
 ]

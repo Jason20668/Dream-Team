@@ -84,6 +84,13 @@ const players = [
         Photo: '/imgs/Cammy.jpg'
     },
     {
+        firstName: 'Charlie Nash',
+        Nationality: 'Irish',
+        Style: '"Peek-a-Boo" Boxing',
+        Appearance: 'Street Fighter Alpha & 5',
+        Photo: '/imgs/Charlie Nash.jpg'
+    },
+    {
         firstName: 'Chun-Li',
         Nationality: 'Chinese',
         Style: 'Kung Fu',
@@ -315,11 +322,18 @@ const players = [
         Photo: '/imgs/Juri.jpg'
     },
     {
-        firstName: 'Ryu',
+        firstName: 'Kage',
         Nationality: 'Japanese',
         Style: 'Ansatsuken Karate',
-        Appearance: 'Every Game',
-        Photo: '/imgs/Ryu.jpg'
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Kage.jpg'
+    },
+    {
+        firstName: 'Karin',
+        Nationality: 'Japanese',
+        Style: 'Kanzuki-ryu kakutojutsu',
+        Appearance: 'Street Fighter Alpha & 5',
+        Photo: '/imgs/Karin.jpg'
     },
     {
         firstName: 'Ken',
@@ -328,6 +342,189 @@ const players = [
         Appearance: 'Every Game',
         Photo: '/imgs/Ken.jpg'
     },
+    {
+        firstName: 'Kimberly',
+        Nationality: 'American',
+        Style: 'Bushinryu Ninjutsu',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Kimberly.jpg'
+    },
+    {
+        firstName: 'Kolin',
+        Nationality: 'Unknown',
+        Style: 'Systema & Ice Powers',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Kolin.jpg'
+    },
+    {
+        firstName: 'Laura',
+        Nationality: 'Brazilian',
+        Style: 'Brazilian Jiu-jitsu',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Laura.jpg'
+    },
+    {
+        firstName: 'Lee',
+        Nationality: 'Chinese',
+        Style: 'Bajiquan & Drunken Fist',
+        Appearance: 'Street Fighter 1',
+        Photo: '/imgs/Lee.jpg'
+    },
+    {
+        firstName: 'Lily',
+        Nationality: 'Mexican',
+        Style: 'Dual Pogamoggans',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Lily.jpg'
+    },
+    {
+        firstName: 'Lucia',
+        Nationality: 'Puerto Rican',
+        Style: 'Kenpo & Self-Defense Techniques',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Lucia.jpg'
+    },
+    {
+        firstName: 'Luke',
+        Nationality: 'American',
+        Style: 'Military Style MMA',
+        Appearance: 'Street Fighter 5 & 6',
+        Photo: '/imgs/Luke.jpg'
+    },
+    {
+        firstName: 'M. Bison',
+        Nationality: 'Unknown',
+        Style: 'Lerdrit & Psycho Power',
+        Appearance: 'Street Fighter 2, Super 2, Alpha, 4, 5, & 6',
+        Photo: '/imgs/M.Bison.jpg'
+    },
+    {
+        firstName: 'Mai',
+        Nationality: 'Japanese',
+        Style: 'Shiranui-ryuu Ninjutsu',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Mai.jpg'
+    },
+    {
+        firstName: 'Maki',
+        Nationality: 'Japanese',
+        Style: 'Bushin-ryu Ninjutsu',
+        Appearance: 'Street Fighter 4',
+        Photo: '/imgs/Maki.jpg'
+    },
+    {
+        firstName: 'Makoto',
+        Nationality: 'Japanese',
+        Style: 'Rindoukan Karate',
+        Appearance: 'Street Fighter 4',
+        Photo: '/imgs/Makoto.jpg'
+    },
+    {
+        firstName: 'Manon',
+        Nationality: 'French',
+        Style: 'Judo & Ballet',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Manon.jpg'
+    },
+    {
+        firstName: 'Marisa',
+        Nationality: 'Italian',
+        Style: 'Pankration',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Marisa.jpg'
+    },
+    {
+        firstName: 'Menat',
+        Nationality: 'Egyptian',
+        Style: 'Soul Power',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Menat.jpg'
+    },
+    {
+        firstName: 'Mike',
+        Nationality: 'American',
+        Style: 'Heavyweight Boxing',
+        Appearance: 'Street Fighter 1',
+        Photo: '/imgs/Mike.jpg'
+    },
+    {
+        firstName: 'Necalli',
+        Nationality: 'Unknown',
+        Style: 'Brute Strength',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Necalli.jpg'
+    },
+    {
+        firstName: 'Necro',
+        Nationality: 'Russian',
+        Style: 'Yoga & Electric Powers',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Necro.jpg'
+    },
+    {
+        firstName: 'Oro',
+        Nationality: 'Unknown',
+        Style: 'Senjutsu',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Oro.jpg'
+    },
+    {
+        firstName: 'Poison',
+        Nationality: 'American',
+        Style: 'Acrobatic Fighting & Kenkasappo',
+        Appearance: 'Street Fighter 3, 4, & 5',
+        Photo: '/imgs/Poison.jpg'
+    },
+    {
+        firstName: 'Q',
+        Nationality: 'Unknown',
+        Style: 'Unknown',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Q.jpg'
+    },
+    {
+        firstName: 'R. Mika',
+        Nationality: 'Japanese',
+        Style: 'Professional Wrestling',
+        Appearance: 'Street Fighter Alpha & 5',
+        Photo: '/imgs/R Mika.jpg'
+    },
+    {
+        firstName: 'Rashid',
+        Nationality: 'Unknown',
+        Style: 'Parkour and Wind Powers',
+        Appearance: 'Street Fighter 5 & 6',
+        Photo: '/imgs/Rashid.jpg'
+    },
+    {
+        firstName: 'Remy',
+        Nationality: 'French',
+        Style: 'Savate & Light Projectiles',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Remy.jpg'
+    },
+    {
+        firstName: 'Retsu',
+        Nationality: 'Japanese',
+        Style: 'Shorinji Kempo',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Retsu.jpg'
+    },
+    {
+        firstName: 'Rolento',
+        Nationality: 'American',
+        Style: 'Bojutsu',
+        Appearance: 'Street Fighter Alpha & 4',
+        Photo: '/imgs/Rolento.jpg'
+    },
+    {
+        firstName: 'Ryu',
+        Nationality: 'Japanese',
+        Style: 'Ansatsuken Karate',
+        Appearance: 'Every Game',
+        Photo: '/imgs/Ryu.jpg'
+    },
+
     {
         firstName: 'Zangief',
         Nationality: 'Russian',
@@ -364,13 +561,6 @@ const players = [
         Style: 'Thunderfoot Martial Arts',
         Appearance: 'Street Fighter 2 & 4',
         Photo: '/imgs/Thunder Hawk.jpg'
-    },
-    {
-        firstName: 'Charlie Nash',
-        Nationality: 'Irish',
-        Style: '"Peek-a-Boo" Boxing',
-        Appearance: 'Street Fighter Alpha & 5',
-        Photo: '/imgs/Charlie Nash.jpg'
     },
     {
         firstName: 'Rose',

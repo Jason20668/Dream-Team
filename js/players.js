@@ -15,7 +15,7 @@ const players = [
     },
     {
         firstName: 'Adon',
-        Nationality: 'Thai',
+        Nationality: 'Thai (Thailand)',
         Style: 'Muay Thai',
         Appearance: 'Street Fighter 1, Alpha, & 4',
         Photo: '/imgs/Adon.jpg'

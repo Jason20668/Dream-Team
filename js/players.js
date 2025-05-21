@@ -518,43 +518,61 @@ const players = [
         Photo: '/imgs/Rolento.jpg'
     },
     {
+        firstName: 'Rose',
+        Nationality: 'Italian',
+        Style: 'Soul Power',
+        Appearance: 'Street Fighter 4 & 5',
+        Photo: '/imgs/Rose.jpg'
+    },
+    {
+        firstName: 'Rufus',
+        Nationality: 'American',
+        Style: 'Breakung-Fu',
+        Appearance: 'Street Fighter 4',
+        Photo: '/imgs/Rufus.jpg'
+    },
+    {
         firstName: 'Ryu',
         Nationality: 'Japanese',
         Style: 'Ansatsuken Karate',
         Appearance: 'Every Game',
         Photo: '/imgs/Ryu.jpg'
     },
-
-    {
-        firstName: 'Zangief',
-        Nationality: 'Russian',
-        Style: 'Wrestling',
-        Appearance: 'Street Fighter 2, 4, 5, & 6',
-        Photo: '/imgs/Zangief.jpg'
-    },
-
-    {
-        firstName: 'Vega',
-        Nationality: 'Spanish',
-        Style: 'Spanish Bullfighting & Ninjutsu',
-        Appearance: 'Street Fighter 2, 4, & 5',
-        Photo: '/imgs/Vega.jpg'
-    },
     {
         firstName: 'Sagat',
-        Nationality: 'Thai',
+        Nationality: 'Thai (Thailand)',
         Style: 'Muay Thai',
         Appearance: 'Street Fighter 1, 2, Alpha, 4, & 5',
         Photo: '/imgs/Sagat.jpg'
     },
     {
-        firstName: 'M. Bison',
-        Nationality: 'Unknown',
-        Style: 'Lerdrit & Psycho Power',
-        Appearance: 'Street Fighter 2, Super 2, Alpha, 4, 5, & 6',
-        Photo: '/imgs/M.Bison.jpg'
+        firstName: 'Sakura Kasugano',
+        Nationality: 'Japanese',
+        Style: 'Medical Ninjutsu & Taijutsu',
+        Appearance: 'Street Fighter Alpha, 4, & 5',
+        Photo: '/imgs/Sakura.jpg'
     },
-
+    {
+        firstName: 'Sean',
+        Nationality: 'Brazilian',
+        Style: 'Imitation Ansatsuken Karate',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Sean.jpg'
+    },
+    {
+        firstName: 'Seth',
+        Nationality: 'Unknown',
+        Style: 'Move Duplication',
+        Appearance: 'Street Fighter 4 & 5',
+        Photo: '/imgs/Seth.jpg'
+    },
+    {
+        firstName: 'Sodom',
+        Nationality: 'American',
+        Style: 'Katana Blades and Jitte',
+        Appearance: 'Street Fighter Alpha',
+        Photo: '/imgs/Sodom.jpg'
+    },
     {
         firstName: 'T. Hawk',
         Nationality: 'Mexican',
@@ -563,26 +581,59 @@ const players = [
         Photo: '/imgs/Thunder Hawk.jpg'
     },
     {
-        firstName: 'Rose',
-        Nationality: 'Italian',
-        Style: 'Soul Power',
-        Appearance: 'Street Fighter 4 & 5',
-        Photo: '/imgs/Rose.jpg'
-    },
-
-    {
-        firstName: 'Sodom',
+        firstName: 'Terry Bogard',
         Nationality: 'American',
-        Style: 'Katana Blades and Jitte',
-        Appearance: 'Street Fighter Alpha',
-        Photo: '/imgs/Sodom.jpg'
+        Style: 'Boxing, Kickboxing, Kung-Fu, and Hakkyokuseiken',
+        Appearance: 'Street Fighter 6',
+        Photo: '/imgs/Terry.jpg'
     },
-
     {
-        firstName: 'Sakura Kasugano',
-        Nationality: 'Japanese',
-        Style: 'Medical Ninjutsu & Taijutsu',
-        Appearance: 'Street Fighter Alpha, 4, & 5',
-        Photo: '/imgs/Sakura.jpg'
+        firstName: 'Twelve',
+        Nationality: 'None',
+        Style: 'Hyper adaptation',
+        Appearance: 'Street Fighter 3',
+        Photo: '/imgs/Twelve.jpg'
     },
+    {
+        firstName: 'Urien',
+        Nationality: 'Unknown',
+        Style: 'Pankration & Electric Powers',
+        Appearance: 'Street Fighter 3 & 5',
+        Photo: '/imgs/Urien.jpg'
+    },
+    {
+        firstName: 'Vega',
+        Nationality: 'Spanish',
+        Style: 'Spanish Bullfighting & Ninjutsu',
+        Appearance: 'Street Fighter 2, 4, & 5',
+        Photo: '/imgs/Vega.jpg'
+    },
+    {
+        firstName: 'Yang',
+        Nationality: 'Chinese',
+        Style: 'Bājíquán',
+        Appearance: 'Street Fighter 3 & 4',
+        Photo: '/imgs/Yang.jpg'
+    },
+    {
+        firstName: 'Yun',
+        Nationality: 'Chinese',
+        Style: 'Chinese Kung-Fu',
+        Appearance: 'Street Fighter Alpha, 3, & 4',
+        Photo: '/imgs/Yun.jpg'
+    },
+    {
+        firstName: 'Zangief',
+        Nationality: 'Russian',
+        Style: 'Wrestling',
+        Appearance: 'Street Fighter 2, 4, 5, & 6',
+        Photo: '/imgs/Zangief.jpg'
+    },
+    {
+        firstName: 'Zeku',
+        Nationality: 'Japanese',
+        Style: 'Bushinryu Ninjutsu',
+        Appearance: 'Street Fighter 5',
+        Photo: '/imgs/Zeku.jpg'
+    }
 ]

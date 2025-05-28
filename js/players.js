@@ -4,49 +4,56 @@ const players = [
         Nationality: 'French',
         Style: 'Mixed Martial Arts',
         Appearance: 'Street Fighter 4',
-        Photo: '/imgs/Abel.jpg'
+        Photo: '/imgs/Abel.jpg',
+        FF: 'Abel is a failed replacement body for M. Bison'
     },
     {
         firstName: 'Abigail',
         Nationality: 'Canadian',
         Style: 'Brute Strength',
         Appearance: 'Street Fighter 5',
-        Photo: '/imgs/Abigail.jpg'
+        Photo: '/imgs/Abigail.jpg',
+        FF: 'Abigail is 8 feet tall and nearly 600 pounds'
     },
     {
         firstName: 'Adon',
         Nationality: 'Thai (Thailand)',
         Style: 'Muay Thai',
         Appearance: 'Street Fighter 1, Alpha, & 4',
-        Photo: '/imgs/Adon.jpg'
+        Photo: '/imgs/Adon.jpg',
+        FF: 'Adon wants to dethrone Sagat as the leader of Muay Thai'
     },
     {
         firstName: 'Akira',
         Nationality: 'Japanese',
         Style: 'Bajiquan',
         Appearance: 'Street Fighter 5',
-        Photo: '/imgs/Akira.jpg'
+        Photo: '/imgs/Akira.jpg',
+        FF: 'Akira was the 1st character in Capcoms Rival Schools series'
     },
     {
         firstName: 'Akuma',
         Nationality: 'Japanese',
         Style: 'Ansatsuken Karate',
         Appearance: 'Street Fighter Super 2, Alpha, 3, 4, 5, & 6',
-        Photo: '/imgs/Akuma.jpg'
+        Photo: '/imgs/Akuma.jpg',
+        FF: 'Akuma is commonly banned is tournaments due to being overpowered'
     },
     {
         firstName: 'Aki',
         Nationality: 'Chinese',
         Style: 'Fanged Snake & Poison Hand Kung Fu',
         Appearance: 'Street Fighter 6',
-        Photo: '/imgs/AKI.jpg'
+        Photo: '/imgs/AKI.jpg',
+        FF: 'Aki is FANGs student'
     },
     {
         firstName: 'Alex',
         Nationality: 'American',
         Style: 'Wrestling & Kickboxing',
         Appearance: 'Street Fighter 3 & 5',
-        Photo: '/imgs/Alex.jpg'
+        Photo: '/imgs/Alex.jpg',
+        FF: 'Alex is loosely inspired by Hulk Hogan'
     },
     {
         firstName: 'Balrog',

@@ -1,4 +1,6 @@
 body {
-    background-image: linear-gradient(red, orange, yellow, red);
+    background-image: url(/imgs/DreamTeam\ BG.png);
+    background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
 }

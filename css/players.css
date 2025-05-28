@@ -1,8 +1,0 @@
-#rosterGrid img {
-  width: 150px;      /* Set the width you want */
-  height: 150px;     /* Set the height you want */
-  object-fit: cover; /* Crop and scale the image to fill the box */
-  border-radius: 8px; /* Optional: rounded corners */
-  display: block;
-  margin: 0 auto;
-}

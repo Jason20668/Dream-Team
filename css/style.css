@@ -4,3 +4,50 @@ body {
     background-size: cover;
     text-align: center;
 }
+
+.image-sizing {
+    width: 600px;
+    height: 220px;
+}
+
+.nav-link {
+    color: #ffffff;
+font-family: "comic-sans-ms", sans-serif;
+font-weight: 700;
+font-style: normal;
+    text-shadow: 1px 1px 0 black,
+    -1px 1px 0 black,
+    1px -1px 0 black,
+    -1px -1px 0 black,
+    0px 1px 0 black,
+    0px -1px 0 black,
+    -1px 0px 0 black,
+    1px 0px 0 black,
+    2px 2px 0 black,
+    -2px 2px 0 black,
+    2px -2px 0 black,
+    -2px -2px 0 black,
+    0px 2px 0 black,
+    0px -2px 0 black,
+    -2px 0px 0 black,
+    2px 0px 0 black,
+    1px 2px 0 black,
+    -1px 2px 0 black,
+    1px -2px 0 black,
+    -1px -2px 0 black,
+    2px 1px 0 black,
+    -2px 1px 0 black,
+    2px -1px 0 black,
+    -2px -1px 0 black;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+
+.nav-link:focus,
+.nav-link.active {
+    color: #ffffff ; 
+    text-decoration: none; 
+}

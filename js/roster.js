@@ -11,11 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
             col.innerHTML = 
             `
                 <div class="card h-100 shadow-sm">
-                    <img src="${p.Photo}" alt="${p.firstName}" class="card-img-top">
-                    <div class="card-body text-center">
+                    <img src="${p.Photo}" alt="${p.firstName}" class="card-img-top border border-2 border-black image">
+                    <div class="card-body border border-2 border-black text-center">
                         <h5 class="card-title mb-1">${p.firstName}</h5>
                         <div class='text-dark badge badge-position badge-pos-${p.Nationality}'>Nationality: ${p.Nationality}</div>
-                        <div class='text-dark badge badge-position badge-pos-${p.Style}'>Fighting Style: ${p.Style}</div>
+                        <div style='white-space: normal;' class='text-dark badge badge-position badge-pos-${p.Style}'>Fighting Style: ${p.Style}</div>
                         <p class="small text-muted mb-0">Game Appearances: ${p.Appearance}</p>
                     </div>
                 </div>

@@ -12,33 +12,33 @@ body {
 
 .nav-link {
     color: #ffffff;
-font-family: "comic-sans-ms", sans-serif;
-font-weight: 700;
-font-style: normal;
+    font-family: "comic-sans-ms", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     text-shadow: 1px 1px 0 black,
-    -1px 1px 0 black,
-    1px -1px 0 black,
-    -1px -1px 0 black,
-    0px 1px 0 black,
-    0px -1px 0 black,
-    -1px 0px 0 black,
-    1px 0px 0 black,
-    2px 2px 0 black,
-    -2px 2px 0 black,
-    2px -2px 0 black,
-    -2px -2px 0 black,
-    0px 2px 0 black,
-    0px -2px 0 black,
-    -2px 0px 0 black,
-    2px 0px 0 black,
-    1px 2px 0 black,
-    -1px 2px 0 black,
-    1px -2px 0 black,
-    -1px -2px 0 black,
-    2px 1px 0 black,
-    -2px 1px 0 black,
-    2px -1px 0 black,
-    -2px -1px 0 black;
+        -1px 1px 0 black,
+        1px -1px 0 black,
+        -1px -1px 0 black,
+        0px 1px 0 black,
+        0px -1px 0 black,
+        -1px 0px 0 black,
+        1px 0px 0 black,
+        2px 2px 0 black,
+        -2px 2px 0 black,
+        2px -2px 0 black,
+        -2px -2px 0 black,
+        0px 2px 0 black,
+        0px -2px 0 black,
+        -2px 0px 0 black,
+        2px 0px 0 black,
+        1px 2px 0 black,
+        -1px 2px 0 black,
+        1px -2px 0 black,
+        -1px -2px 0 black,
+        2px 1px 0 black,
+        -2px 1px 0 black,
+        2px -1px 0 black,
+        -2px -1px 0 black;
 }
 
 .nav-link:hover {
@@ -48,6 +48,41 @@ font-style: normal;
 
 .nav-link:focus,
 .nav-link.active {
-    color: #ffffff ; 
-    text-decoration: none; 
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.text-white {
+    text-shadow: 1px 1px 0 black,
+        -1px 1px 0 black,
+        1px -1px 0 black,
+        -1px -1px 0 black,
+        0px 1px 0 black,
+        0px -1px 0 black,
+        -1px 0px 0 black,
+        1px 0px 0 black,
+        2px 2px 0 black,
+        -2px 2px 0 black,
+        2px -2px 0 black,
+        -2px -2px 0 black,
+        0px 2px 0 black,
+        0px -2px 0 black,
+        -2px 0px 0 black,
+        2px 0px 0 black,
+        1px 2px 0 black,
+        -1px 2px 0 black,
+        1px -2px 0 black,
+        -1px -2px 0 black,
+        2px 1px 0 black,
+        -2px 1px 0 black,
+        2px -1px 0 black,
+        -2px -1px 0 black;
+}
+
+.hero-section {
+  background-image: url('/imgs/SFB.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 55vh;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
 }

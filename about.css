@@ -1,5 +1,5 @@
 body {
-    background-image: url(/imgs/DreamTeam\ BG.png);
+    background-image: url(imgs/DreamTeam\ BG.png);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -80,7 +80,7 @@ body {
 }
 
 .hero-section {
-  background-image: url('/imgs/SFB.jpg');
+  background-image: url('imgs/SFB.jpg');
   background-size: cover;
   background-position: center;
   height: 400px;

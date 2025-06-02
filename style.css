@@ -1,8 +1,6 @@
 body {
-    background-image: url(/imgs/DreamTeam\ BG.png);
-    background-repeat: no-repeat;
+    background-color: orangered;
     background-size: cover;
-    margin-top: 250px;
 }
 
 .text-white {
@@ -30,4 +28,7 @@ body {
         -2px 1px 0 black,
         2px -1px 0 black,
         -2px -1px 0 black;
+}
+main {
+  margin-top: 250px; /* move margin here */
 }

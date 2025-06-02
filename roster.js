@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class='text-dark badge badge-position badge-pos-${p.Nationality}'>Nationality: ${p.Nationality}</div>
                         <div style='white-space: normal;' class='text-dark badge badge-position badge-pos-${p.Style}'>Fighting Style: ${p.Style}</div>
                         <p class="small text-muted mb-0">Game Appearances: ${p.Appearance}</p>
-                        <button class="btn btn-sm btn-secondary show-info-btn mt-2 border border-2 border-black" data-index="${index}" data-bs-toggle="modal" data-bs-target="#exampleModal">Archetype</button>
+                        <button class="btn btn-sm btn-warning show-info-btn mt-2 border border-2 border-black" data-index="${index}" data-bs-toggle="modal" data-bs-target="#exampleModal">Archetype</button>
                     </div>
                 </div>
             `
